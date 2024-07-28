@@ -5,6 +5,6 @@ hugo new content content/posts/my-3-post.md
 ```
 
 ```bash
-hugo new content content/posts/my-3-post.md
+hugo new content content/posts/4-post.md
 
 ```
