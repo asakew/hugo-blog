@@ -2,6 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'ABC Widgets, Inc.'
 theme = 'ananke'
+[services]
+    [services.googleAnalytics]
+ID = 'G-PP3YMJ67EK'
 
 [params]
     subtitle = 'The Best Widgets on Earth'
