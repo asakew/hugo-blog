@@ -1,7 +1,6 @@
 baseURL = 'https://asakew.github.io/hugo-blog/'
 languageCode = 'en-us'
 title = 'cyber-blog.github.io'
-theme = 'my-theme'
 
 [params]
     subtitle = 'The Best Widgets on Earth'
