@@ -1,7 +1,6 @@
 ## Commands
 ```bash
 hugo server
-
 ```
 
 ## Add a new page to your site.
